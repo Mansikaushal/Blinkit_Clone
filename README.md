@@ -11,10 +11,10 @@ Product pages.
 <a href="https://ibb.co/LnMGSPp"><img src="https://i.ibb.co/9sJMnvY/image.png" alt="image" border="0"></a>
 
 Cart page.
-![cart page page](https://i.imgur.com/85iAqrf.png)
+(https://i.imgur.com/85iAqrf.png)
 
 Payment page
-![payment page](https://i.imgur.com/xLNVKSz.png)
+<a href="https://ibb.co/WDyYBRB"><img src="https://i.ibb.co/Fswj8d8/image.png" alt="image" border="0"></a>
 
 
 
