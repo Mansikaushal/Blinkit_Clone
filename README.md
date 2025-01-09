@@ -5,7 +5,7 @@ Blinkit is an Indian instant delivery service. It was founded in December 2013. 
 ## Screenshots
 
 Home page of the website.
-(<a href="https://ibb.co/xHLfFnC"><img src="https://i.ibb.co/rs0cdB7/image.png" alt="image" border="0"></a>)
+<a href="https://ibb.co/xHLfFnC"><img src="https://i.ibb.co/rs0cdB7/image.png" alt="image" border="0"></a>
 
 Product pages.
 ![product page](https://i.imgur.com/KJ1FufI.png)
