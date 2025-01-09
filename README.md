@@ -8,7 +8,7 @@ Home page of the website.
 <a href="https://ibb.co/xHLfFnC"><img src="https://i.ibb.co/rs0cdB7/image.png" alt="image" border="0"></a>
 
 Product pages.
-![product page](https://i.imgur.com/KJ1FufI.png)
+<a href="https://ibb.co/LnMGSPp"><img src="https://i.ibb.co/9sJMnvY/image.png" alt="image" border="0"></a>
 
 Cart page.
 ![cart page page](https://i.imgur.com/85iAqrf.png)
